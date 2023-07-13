@@ -68,5 +68,5 @@ order(2000,()=> console.log(`${stocks.Fruits[0]} was selected`))
 })
 
 .finally(()=>{
-    console.log('day ended,shop is closed');
+    console.log('day ended,shop is closed');    
 })
